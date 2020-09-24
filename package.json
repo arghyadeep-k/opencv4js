@@ -1,5 +1,5 @@
 {
-  "name": "opencv-js",
+  "name": "opencv4js",
   "version": "0.0.1",
   "description": "Open Source Computer Vision Library as a npm package",
   "main": "index.js",
