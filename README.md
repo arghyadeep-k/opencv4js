@@ -1,4 +1,4 @@
-# opencv-js
+# OpenCV-js
 
 <img src=https://user-images.githubusercontent.com/31125521/37272906-67187fdc-25d8-11e8-9704-40e9e94c1e80.jpg>
 
@@ -20,7 +20,7 @@ This package is updated whenever a new OpenCV version is released officially. By
 
 ## Usage
 
-The usage will be similar to the offcial <a href="https://docs.opencv.org/master/dc/de6/tutorial_js_nodejs.html">docs</a>.
+The usage will be similar to the official <a href="https://docs.opencv.org/master/dc/de6/tutorial_js_nodejs.html">docs</a>.
 
 
 
