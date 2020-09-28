@@ -14,7 +14,7 @@ Please note that this package is not maintained by the OpenCV team/contributors.
 
 <br>
 
-## Why OpenCV-js?
+## Why OpenCV4js?
 
 This package is updated whenever a new OpenCV version is released officially. By using the package in your OpenCV based Node.js project, you don't need to manually place the opencv.js file or worry about keeping it up to date later.
 
